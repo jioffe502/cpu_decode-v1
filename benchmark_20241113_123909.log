@@ -1,2 +1,0 @@
-2024-11-13 12:39:09,977 - __main__ - INFO - Loading model: facebook/opt-1.3b
-2024-11-13 12:39:14,191 - __main__ - ERROR - Failed to load model: Using `low_cpu_mem_usage=True` or a `device_map` requires Accelerate: `pip install 'accelerate>=0.26.0'`

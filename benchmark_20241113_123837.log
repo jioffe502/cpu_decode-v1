@@ -1,2 +1,0 @@
-2024-11-13 12:38:37,338 - __main__ - INFO - Loading model: facebook/opt-1.3b
-2024-11-13 12:38:37,338 - __main__ - ERROR - Failed to load model: 'ModelBenchmark' object has no attribute 'token'
