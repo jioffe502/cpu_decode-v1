@@ -1,0 +1,14 @@
+[
+  {
+    "context_length": 1024,
+    "output_length": 50,
+    "avg_time": 14.153627395629883,
+    "std_time": 0.1429159172029846,
+    "tokens_per_second": 3.532663295590087,
+    "gpu_memory_peak": 2797.84814453125,
+    "cpu_utilization": {
+      "mean": 54.80120721617028,
+      "peak": 100.0
+    }
+  }
+]
